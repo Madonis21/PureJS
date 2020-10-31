@@ -34,3 +34,6 @@ Tests
 ```
 npm run test
 ```
+
+### Author
+Mohit Sharma
